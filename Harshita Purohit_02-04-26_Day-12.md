@@ -4,6 +4,28 @@ Date: 02-04-2026
 Question:
 Remove Duplicates from Sorted List
 
+Solution:
+
+class Solution {
+public:
+    ListNode* deleteDuplicates(ListNode* head) {
+         if (head == nullptr) return head;
+
+        ListNode* current = head;
+
+        while (current != nullptr && current->next != nullptr) {
+            if (current->val == current->next->val) {
+                current->next = current->next->next;
+            } else {
+                current = current->next;
+            }
+        }
+
+        return head;  
+    }
+};
+
+
 Algorithm:
 1. Start
 2. Check if list is empty
