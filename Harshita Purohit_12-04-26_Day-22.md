@@ -43,5 +43,6 @@ Time: O(m × n)
 Space: O(m × n) (recursion stack)
 
 Screenshots:
-<img width="1366" height="768" alt="Screenshot (969)" src="https://github.com/user-attachments/assets/89fe3412-9d17-4405-91ed-38941d307064" />
-<img width="1366" height="768" alt="Screenshot (968)" src="https://github.com/user-attachments/assets/415ff6c8-cc17-4e05-b62a-6805b72f14e4" />
+<img width="1366" height="768" alt="Screenshot (971)" src="https://github.com/user-attachments/assets/eda8ce3c-4dd0-43ce-969d-171904348f42" />
+<img width="1366" height="768" alt="Screenshot (970)" src="https://github.com/user-attachments/assets/5364e351-9de7-4ad4-af65-4f4233d0abe6" />
+
