@@ -18,16 +18,16 @@ public:
 };
 
 COMPLEXITY:
-
-Time: O(n) : visit each node once
-Space: O(h) : recursion stack (h = height of tree)
+Time: O(n) → visit each node once
+Space: O(h) → recursion stack (h = height of tree)
 
 ALGORITHM: 
 
-1. If root is NULL, return NULL
-2. Swap root->left and root->right
-3. Recursively invert left and right subtrees
-4. Return root
+1. If root is NULL, return 0
+2. Recursively find depth of left and right subtree
+3. Return 1+ max(left,right)
+
+
 
 SCREENSHOT:
 
