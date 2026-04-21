@@ -24,5 +24,7 @@ Time: O(1)
 Space: O(1)
 
 SCREENSHOT:
-<img width="1366" height="706" alt="Screenshot (1205)" src="https://github.com/user-attachments/assets/6671ce96-3c0b-4b82-9cf6-4d3e419c037f" />
+<img width="1366" height="706" alt="Screenshot (1206)" src="https://github.com/user-attachments/assets/2076bcde-5199-4813-88c2-b6f450d33e45" />
+
+
 
